@@ -56,6 +56,7 @@ const FollowMouse = () => {
       backgroundColor: 'rgba(0, 0, 0, 0.5)',
       border: '1px solid #fff',
       borderRadius: '30%',
+      wordSpacing: '0.2px',
       opacity: 0.8,
       fontSize: '0.9rem',
       color: '#fff',
@@ -111,14 +112,14 @@ const FollowMouse = () => {
         setEnabled(!enabled)
         setIsRunning(!isRunning)
       }}>
-        {enabled ? 'Pausar' : 'Empezar'} juego
+        {enabled ? 'Pause' : 'Start'} game
       </button>
 
       <div className='clicker' onClick={
           enabled ? handleClick : ''
         } 
         style={clickerStyle}>
-         Click
+         Click Me
       </div>
       <div className="timer">
         {formatTime(seconds)}

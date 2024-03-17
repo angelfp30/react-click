@@ -84,7 +84,7 @@ body.no-cursor {
   display: grid;
   place-content: center;
   text-align: center;
-  padding: 5px;
+  padding: 2px;
   user-select: none;
   background-color: 'rgba(0, 0, 0, 0.5)';
   border: '1px solid #fff';
