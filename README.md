@@ -1,2 +1,2 @@
 # React & Click!
-The React % Click name makes reference to the most important things of this project, the name of the main technology used (React), and the main mechanic of this simple game, basically, it's a clicker! It starts when pressing a button, the cursor changes to a cooler one, and the score and timer start to work. Click the squares and break your records!
+The React & Click name makes reference to the most important things of this project, the name of the main technology used (React), and the main mechanic of this simple game, basically, it's a clicker! It starts when pressing a button, the cursor changes to a cooler one, and the score and timer start to work. Click the squares and break your records!
